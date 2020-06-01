@@ -1,0 +1,5 @@
+Time :  0.00017833709716796875  second
+Number of Learned Clause:  1
+Decision :  1
+Implication :  5
+UNSAT
